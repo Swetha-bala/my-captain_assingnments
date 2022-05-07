@@ -1,3 +1,4 @@
-my list1=[12,-7,5,64,-14]
-For number in my list1<0
-          Print(the numbers)
+list1=[1,-99,0,-34,66,33]
+for num in list1:
+    if num >= 0:
+     print (num, end = " ")
